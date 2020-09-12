@@ -1,0 +1,43 @@
+.navbar {
+    background-color: red!important;
+}
+
+.form12 {
+    background-color: tomato!important;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 5px solid #B000B5;
+    min-height: 50vh;
+}
+
+.carte {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    background-color: cadetblue!important;
+}
+
+.valider {
+    display: flex;
+    justify-content: center;
+    font-size: large
+}
+
+.carousselmaison {
+    margin: 20px;
+}
+
+.textlorem {
+    display: flex;
+    margin: 20px;
+}
